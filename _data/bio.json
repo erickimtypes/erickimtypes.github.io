@@ -43,6 +43,7 @@
     {
       "institution": "Roosevelt High School, Honolulu, HI",
       "area": "High School Diploma"
+      "studyType": ""
       "startDate": "2018-08-01",
       "endDate": "2024-05-01",
       "courses": [
@@ -51,23 +52,22 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Hawaii Baptist Academy",
+      "position": "ASEP Leader",
+      "website": "https://www.hba.net/outreach/supplemental-programs/after-school-enrichment-program",
+      "startDate": "2022-06-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Supervised and ensured the safety of children after school, while maintaining a secure and welcoming environment.",
+        "Collaborated with fellow leaders to facilitate play sessions with different grades.",
+        "Managed conflicts and resolved issues among children in a fair and constructive manner."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Target",
+      "position": "General Merchandise Expert",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-01",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
