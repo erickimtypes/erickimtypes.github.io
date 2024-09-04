@@ -54,7 +54,7 @@
     {
       "company": "Hawaii Baptist Academy",
       "position": "ASEP Leader",
-      "website": "https://www.hba.net/outreach/supplemental-programs/after-school-enrichment-program/",
+      "website": "",
       "startDate": "2022-06-01",
       "endDate": "Present",
       "highlights": [
@@ -70,22 +70,24 @@
       "endDate": "2024-07-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Create a welcoming experience by authentically greeting all guests",
+        "Engage with guests in a genuine way, which include asking questions to better understand their specific needs",
+        "Be knowledgeable of GM areas to ensure sales floor is zoned, in stock and accurately signed and priced for guests",
+        "Execute inbound, replenishment, backroom and signing processes for GM areas"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Leo Club",
+      "website": "",
+      "position": "Leo Club Member",
+      "startDate": "2018-01-01",
+      "endDate": "2022-05-01",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Sign up for a list of different volunteer events year round",
+        "Learn the specific instructions to aid in those events and execute"
       ]
     },
     {
