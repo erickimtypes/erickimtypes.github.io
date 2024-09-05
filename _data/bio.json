@@ -17,8 +17,7 @@
     { "name": "Software Engineering" },
     { "name": "Computer Engineering" },
     { "name": "Web Design" },
-    { "name": "Cybersecurity" },
-    { "name": "Basketball" }
+    { "name": "Cybersecurity" }
   ],
   "skills": [
     {
@@ -43,7 +42,6 @@
     {
       "institution": "Roosevelt High School, Honolulu, HI",
       "area": "High School Diploma"
-      "studyType": "",
       "startDate": "2018-08-01",
       "endDate": "2022-05-01",
       "courses": [
