@@ -6,7 +6,7 @@ title: "The Importance of Smart Questioning in Software Engineering"
 date: 2022-09-11
 published: true
 labels:
-  - Smarat Questions
+  - Smart Questions
   - Learning
   - StackOverflow
 ---
