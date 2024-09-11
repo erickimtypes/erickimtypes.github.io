@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/4236484.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/4236484.png">
 
 One of the most important characteristics a software engineer can possess is effective communication and one of the most important parts of effective communication is knowing how to ask intelligent questions. In Eric Raymond’s *How to Ask Questions the Smart Way,* he offers principles on how to engage with an open source community and most importantly, how well-formulated questions result in more productive interactions and better problem solving. This technical essay will examine two StackOverflow questions: One of which will align with principles from Eric Raymond’s article, and one that does not in order to see how each approach results in results of varying quality. By analyzing these cases, I am to understand and highlight the importance of asking smart questions in order to be an effective communicator.
 
