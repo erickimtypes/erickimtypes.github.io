@@ -41,7 +41,7 @@
     },
     {
       "institution": "Roosevelt High School, Honolulu, HI",
-      "area": "High School Diploma",
+      "studyType": "High School Diploma",
       "startDate": "2018-08-01",
       "endDate": "2022-05-01",
       "courses": [
@@ -78,7 +78,7 @@
   "volunteer": [
     {
       "organization": "Leo Club",
-      "website": "",
+      "website": "https://rhsleoclub.weebly.com",
       "position": "Leo Club Member",
       "startDate": "2018-01-01",
       "endDate": "2022-05-01",
@@ -86,6 +86,18 @@
       "highlights": [
         "Sign up for a list of different volunteer events year round",
         "Learn the specific instructions to aid in those events and execute"
+      ]
+    },
+    {
+      "organization": "Roosevelt High School",
+      "position": "Assistant Tennis Coach",
+      "startDate": "2012-06-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Teach tennis mechanics to beginners",
+        "Teach proper form and strategy to tennis players of all level",
+        "Provide aid during matches by giving advice and providing players with water"
       ]
     }
   ],
