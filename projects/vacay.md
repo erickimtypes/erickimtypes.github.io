@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/images.jpeg
+image: img/images-2.jpeg
 title: "End of Semester Solo"
 date: 2022
 published: true
