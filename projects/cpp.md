@@ -2,18 +2,15 @@
 layout: project
 type: project
 image: img/ISO_C++_Logo.svg
-title: "Micromouse"
-date: 2015
+title: "My First C++ Project"
+date: 2024
 published: true
 labels:
   - C++
   - Emacs
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
-
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+<img class="img-fluid" src="../img/cpp.jpeg" width=500px height=300px>
 
 This project is an introduction to C++ and its object-oriented features, specifically focusing on the creation and manipulation of a `Complex` class to handle complex numbers. The program demonstrates basic class functionalities, including a default constructor, member functions to print the complex number in a formatted manner, and setter and getter methods to modify and retrieve the real and imaginary parts of the number. The main function provides a series of tests to verify the correctness of these functionalities, ensuring that the `Complex` class operates as expected.
 
