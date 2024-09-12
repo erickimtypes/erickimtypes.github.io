@@ -11,7 +11,7 @@ labels:
 summary: "OffsetArrayList is a custom implementation of a resizable array list that I created during my time in ICS211 at the University of Hawaii at Manoa. It supports an adjustable offset for element indexing."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/offsetarray.png">
 
 The `OffsetArrayList` project is a custom implementation of a resizable array list in Java with an added offset feature. This implementation allows users to specify an initial offset for indexing elements, which can be particularly useful in certain scenarios where the list’s logical indexing does not start from zero. The class provides a variety of methods to manage the list, including `add`, `remove`, `get`, `set`, and methods to retrieve the size, capacity, and offset of the list. The `add` method is designed to handle adding elements both at the end and at a specific index, while ensuring that the array is resized when necessary. The `remove` method handles the removal of elements and shifts the remaining elements accordingly.
 
