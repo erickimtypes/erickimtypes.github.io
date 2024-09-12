@@ -17,4 +17,4 @@ The `OffsetArrayList` project is a custom implementation of a resizable array li
 
 In addition to the core functionality, the `OffsetArrayList` class includes a comprehensive unit testing method to validate its behavior under various conditions. This testing method checks for correct handling of edge cases, such as negative capacities, invalid indices, and verifies the correctness of the `toString` method by comparing its output to expected results. The `main` method demonstrates the basic usage of the `OffsetArrayList` by performing a series of operations and printing the results to the console, alongside running the unit tests to ensure that the implementation is working as intended.
 
-See my full code here at my [GitHub Projects Respository.](https://github.com/erickimtypes/Projects/blob/main/OffsetArrayList.java)
+See my full code here at my [GitHub Projects Respository.](https://github.com/erickimtypes/Projects)
