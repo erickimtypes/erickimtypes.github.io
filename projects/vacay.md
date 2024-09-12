@@ -1,28 +1,16 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/images.jpeg
+title: "End of Semester Solo"
+date: 2022
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Music
+summary: "During my first semester in college, I majored in music and had to prepare a solo throughout that semester that I'd play in front of judges."
 ---
+<img class="img-fluid" src="../img/bassoon.jpg" width=500px height=300px>
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+During my first semester in college, I majored in Bassoon Performance, a passion that began in sixth grade with my middle school concert band. For my Bassoon Studio course, I was required to prepare a solo piece and perform it before a panel of judges to determine my grade. The challenge of becoming comfortable with my teacher, selecting a piece, and mastering it, along with all necessary scales, within just 16 weeks was daunting. I chose Mozart's Bassoon Concerto and dedicated myself to rigorous preparation.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+The intense stress motivated me to practice tirelessly, to the point of memorizing the entire piece. I meticulously worked on challenging sections to ensure technical proficiency, aiming for any deductions to come from stylistic rather than technical errors. By the end of the semester, I faced my performance with confidence rather than nervousness. This experience taught me the value of motivation and discipline, culminating in an A for the course with only minor stylistic critiques.
