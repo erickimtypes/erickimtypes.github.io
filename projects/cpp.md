@@ -8,7 +8,7 @@ published: true
 labels:
   - C++
   - Emacs
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "During my Spring 2024 semester at the University of Hawaii at Manoa, I took ICS212, which was a course that taught C/C++. This was one of my projects in C++ that worked with imaginary numbers."
 ---
 <img class="img-fluid" src="../img/cpp.jpeg" width=500px height=300px>
 
