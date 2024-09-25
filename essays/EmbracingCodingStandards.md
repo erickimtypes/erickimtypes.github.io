@@ -4,7 +4,7 @@ type: essay
 title: "Embracing Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2012-09-24
-published: false 
+published: true 
 labels:
   - Computer Science
   - Typescript
