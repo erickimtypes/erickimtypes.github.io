@@ -15,6 +15,7 @@ labels:
 ---
 <img width="1400px" class="rounded float-start pe-4" src="../img/sublimelint.png">
 
+
 When I initially thought about coding standards, I pictured small details like how many spaces or indentations to use, where to place certain braces, how to name my functions/variables, and more. These things may seem unimportant, however they play a crucial role in improving the quality of our code and in making coding as a whole less overwhelming for newcomers to software engineering. Through my experience with ESLing and Visual Studio Code (VSCode), I was initially frustrated with the errors, but that soon turned in to appreciation for neat code that follows coding standards.
 
 ## Why Coding Standards Matter
