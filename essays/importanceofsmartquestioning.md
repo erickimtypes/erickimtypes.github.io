@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Importance of Smart Questioning in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2022-09-11
+date: 2024-09-11
 published: true
 labels:
   - Smart Questions
