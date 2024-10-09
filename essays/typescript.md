@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "My Journey Through Typescript"
 # All dates must be YYYY-MM-DD format!
-date: 2012-09-04
+date: 2024-09-04
 published: true
 labels:
   - Computer Science
