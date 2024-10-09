@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "My Past, Present, and Future with Computer Science"
 # All dates must be YYYY-MM-DD format!
-date: 2012-09-11
+date: 2024-09-11
 published: true
 labels:
   - About me
