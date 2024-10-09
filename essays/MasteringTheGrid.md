@@ -11,6 +11,8 @@ labels:
   - Bootstrap5
   - UI
 ---
+<img width="150px" class="rounded float-start pe-4" src="../img/originalpapago.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/replicapapago.png">
 
 ## The Challenge of Learning a UI Framework
 When I first started my Intro to Software Engineering class at the University of Hawaii at Manoa, I had no idea that working with a UI framework like Bootstrap 5 would be so challenging. Having never worked with raw HTML and CSS before, I was unprepared for the complexity Bootstrap brought into the mix. But as we began our assignments, I quickly learned that using a UI framework was like learning a new language—full of potential but equally confusing and frustrating at first.
