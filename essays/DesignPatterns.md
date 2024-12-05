@@ -9,7 +9,7 @@ labels:
   - Computer Science
   - Design Patterns
 ---
-<img width="1400px" class="rounded float-start pe-4" src="../img/playbook.jpg">
+<img width="700px" class="rounded float-start pe-4" src="../img/playbook.jpg">
 
 Imagine a basketball game in which each player is improvising their own moves without any plan. Players would clash and the game would, most certainly, become a huge mess. Now, consider the same game, but with a well-planned playbook. In this scenario, each player understands their position and role, the team works in harmony and executes plays that are meant to adapt to various scenarios. This is the difference that design patterns can make in software engineering. Design patterns turn random collections of code into a cohesive, efficient, and strategic system.
 
