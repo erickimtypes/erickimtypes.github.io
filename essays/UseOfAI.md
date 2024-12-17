@@ -10,7 +10,7 @@ labels:
   - Software Engineering
   - AI
 ---
-<img width="460px" class="rounded float-start pe-4" src="../img/ai.jpeg">
+<img width="470px" class="rounded float-start pe-4" src="../img/ai.jpeg">
 
 Artificial intelligence has played an increasingly important role in education, especially in software engineering. AI solutions like ChatGPT, GitHub Copilot, and Bard are being utilized more frequently to improve learning and efficiency. In ICS 314, an Intro to Software Engineering course, these tools helped students like myself to understand topics, and solve coding problems.Throughout the semester, I used AI tools in a variety of ways, including creating coding examples, troubleshooting issues, enhancing documentation, and improving the quality of my final project. This essay reviews my experiences with AI in ICS 314, including its advantages, limits, and overall impact on my learning journey.
 
