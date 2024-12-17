@@ -11,7 +11,7 @@ labels:
   - Programming
   - Software Engineering
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/SES-Computer-Science-1900862161.jpeg">
+<img width="420px" class="rounded float-start pe-4" src="../img/SES-Computer-Science-1900862161.jpeg">
 
 ## My Past Before Computer Science
 Growing up, I was mesmerized by different forms of technology. From the television, to my Nintendo DS, to computers, all I wanted to do was sit in front of these forms of technology and explore what I could do with these “tools.” Of course, at that age, all I could think about was how I could get fun out of exploring the world of technology. As I grew older however, I was mesmerized instead by the genius behind each website, game, video, and more. I was intrigued by how people could create such incredible things without physically creating something. I became curious about how this could be done and how I could create things myself.
