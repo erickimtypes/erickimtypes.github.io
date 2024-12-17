@@ -14,39 +14,51 @@ Artificial intelligence has played an increasingly important role in education, 
 
 # My Personal Experience with AI
 Experience WODs:
+
 I did not use AI for the Experience WODs because the lessons included video demos that were sufficient for me to understand what was needed.   Watching the videos taught me the steps firsthand, and using AI at that point seemed unnecessary.
 
 In-class Practice WODs:
+
 During in-class Practice WODs, I focused on understanding the learning the concepts without using AI. This was the period I focused on consciously improving my understanding so that I could perform well in graded WODs. I purposely avoided AI in order to assure that I could solve difficulties later on my own.
 
 Essays:
+
 For writing essays, I used ChatGPT to help refine grammar. For example, I would ask ChatGPT to read my essays and tell me if they flowed well or if there were any serious grammatical issues. However, all of the writing was my own ideas.
 
 Final Project:
+
 AI tools proved essential for the final project. When I had trouble styling a dropdown menu in my navbar with html, I asked ChatGPT, "How can I style a dropdown menu using html and CSS?" The AI gave me an example that helped me solve the problem quickly. Similarly, I utilized GitHub Copilot to autocomplete repetitious code, such as creating routes and functions.
 
-Learning a concept / tutorial
+Learning a concept / tutorial:
+
 This was my primary usage of AI. I frequently used ChatGPT to explain complicated subjects in simpler words. For example, when initially learning html, I was confused on how the <a> tag worked. So, I asked ChatGPT, "Can you explain how the <a> tag works in HTML?" The AI broke the concept into simple, clear steps, and also provided examples, which improved my understanding a lot.
 
-Answering a question in class or in Discord
+Answering a question in class or in Discord:
+
 I did not use AI to answer questions in class or on discord and I preferred to rely on what I knew if i wanted to answer the questions. I felt it was important to contribute authentically or else the person asking the question would have asked AI themselves.
 
 Asking or answering a smart-question:
+
 When I needed to ask a smart question, I used ChatGPT to refine it so that I wouldn’t waste other people’s time. For instance, before asking on Discord, I would ask, “How can I ask a smart question about debugging a Node.js server error?” ChatGPT answered and helped me structure the question more effectively
 
 Coding Example:
+
 I used AI for coding examples when learning new concepts. For instance, I asked, “Give an example of using an tag in HTML with a target attribute.” This provided me with a clear and concise code snippet to test and understand.
 
 Explaining code:
+
 When I was initially learning frameworks like React, I often asked ChatGPT to explain pieces of code I didn’t understand. For example, I asked, “What does this React component do?” and pasted the code. The explanations were helpful in building my knowledge. I also used AI to explain error messages, such as, “What does the error 'undefined is not a function' mean in JavaScript?”
 
 Writing Code:
+
 I used GitHub Copilot to autocomplete functions and code blocks. For example, when building a function to validate user input, Copilot created a starting template. However, I took sure to thoroughly analyze the code to understand what it was doing.
 
 Documenting code:
+
 I sometimes used AI to ensure my code documentation was accurate and clear. For example, I asked ChatGPT, “How can I document this JavaScript functio?” The AI provided an example that I modified for my own needs.
 
 Quality assurance:
+
 AI was particularly helpful for quality assurance. When I encountered ESLint errors, I asked GitHub Copilot, “How do I fix this ESLint error: 'no-unused-vars'?” The AI explained the issue and provided a solution, which streamlined the debugging process.
 
 # Impact on Learning and Understanding
