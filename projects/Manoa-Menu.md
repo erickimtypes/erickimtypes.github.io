@@ -13,7 +13,9 @@ labels:
 summary: "Manoa Menu is a web application designed by my team and I for our final project during ICS314: Software Engineering. The application is designed to provide translations of menu items and descriptions for different restaurants and food locations on campus for international students."
 ---
 Team Homepage: [GitHub Organization](https://manoa-menu.github.io/)
+
 Deployed Application: [Manoa Menu](https://manoa-menu.vercel.app)
+
 Source Code: [Github Repo](https://github.com/manoa-menu/manoa-menu)
 
 ---
