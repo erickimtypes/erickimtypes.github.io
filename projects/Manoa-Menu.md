@@ -19,7 +19,7 @@ summary: "Manoa Menu is a web application designed by my team and I for our fina
 ### **Source Code**: [Github](https://github.com/manoa-menu/manoa-menu)
 
 ---
-<img class="img-fluid" src="../img/Manoa-Menu-Project/manoa-menu-page.jpeg"/>
+<img class="img-fluid" src="../img/Manoa-Menu-Project/manoa-menu-page.jpeg" height=300px/>
 
 The Manoa Menu project is a web application designed to assist international students at the University of Hawaiʻi at Mānoa by providing menu translations and item descriptions for campus dining locations. The application allows users to view dining menus, find dining locations and hours, manage their favorite items, and receive personalized recommendations based on their preferences. It was developed to make dining on campus more accessible and enjoyable, especially for those facing language barriers.
 
