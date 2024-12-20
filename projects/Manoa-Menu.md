@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Manoa-Menu-Project/manoa-menu-logo2.jpg
+image: img/Manoa-Menu-Project/manoa-menu-logo2.jpeg
 title: "Manoa Menu"
 date: 2024
 published: true
