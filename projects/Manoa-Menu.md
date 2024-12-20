@@ -12,12 +12,12 @@ labels:
   - PostgreSQL
 summary: "Manoa Menu is a web application designed by my team and I for our final project during ICS314: Software Engineering. The application is designed to provide translations of menu items and descriptions for different restaurants and food locations on campus for international students."
 ---
-### Team Homepage: [GitHub Organization](https://manoa-menu.github.io/)
-### Deployed Application: [Manoa Menu](https://manoa-menu.vercel.app)
-### Source Code: [Github Repo](https://github.com/manoa-menu/manoa-menu)
+Team Homepage: [GitHub Organization](https://manoa-menu.github.io/)
+Deployed Application: [Manoa Menu](https://manoa-menu.vercel.app)
+Source Code: [Github Repo](https://github.com/manoa-menu/manoa-menu)
 
 ---
-<img class="img-fluid" src="../img/Manoa-Menu-Project/manoa-menu-page.jpeg" height=200px/>
+<img class="img-fluid" src="../img/Manoa-Menu-Project/manoa-menu-page.jpeg" height=50px/>
 
 The Manoa Menu project is a web application designed to assist international students at the University of Hawaiʻi at Mānoa by providing menu translations and item descriptions for campus dining locations. The application allows users to view dining menus, find dining locations and hours, manage their favorite items, and receive personalized recommendations based on their preferences. It was developed to make dining on campus more accessible and enjoyable, especially for those facing language barriers.
 
