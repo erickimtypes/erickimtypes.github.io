@@ -22,11 +22,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript/Typescript", "HTML/CSS", "Python" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [ "React", "Node.js", "Bootstrap"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Microsoft OS", "Git/GitHub", "Shell/Terminal", "VSCode", "Emacs", "Eclipse" ]
+      "keywords": [ "GitHub", "VS Code", "MacOS", "Microsoft OS", "Git/GitHub", "Shell/Terminal", "VSCode", "Emacs", "Eclipse" ]
     }
   ],
   "education": [
