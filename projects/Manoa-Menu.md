@@ -17,7 +17,7 @@ Deployed Application: [Manoa Menu](https://manoa-menu.vercel.app)
 Source Code: [Github Repo](https://github.com/manoa-menu/manoa-menu)
 
 ---
-<img class="img-fluid" src="../img/Manoa-Menu-Project/manoa-menu-page.jpeg" width=100px/>
+<img class="img-fluid" src="../img/Manoa-Menu-Project/manoa-menu-page.jpeg" width=700px/>
 
 The Manoa Menu project is a web application designed to assist international students at the University of Hawaiʻi at Mānoa by providing menu translations and item descriptions for campus dining locations. The application allows users to view dining menus, find dining locations and hours, manage their favorite items, and receive personalized recommendations based on their preferences. It was developed to make dining on campus more accessible and enjoyable, especially for those facing language barriers.
 
