@@ -14,6 +14,7 @@ labels:
     <img width="700px" class="rounded pe-4" src="../img/Final-Essay-Pics/image.jpeg" alt="Software engineer working">
 </div>
 
+
 Throughout this course, I've learned that software engineering is much more than just coding and web application development. It is a discipline that combines collaboration, structure, and ethics to ensure that technology performs its intended purpose efficiently. Among the several concepts covered in the course, two particular concepts stuck out to me: coding standards and ethics in software engineering. These concepts have changed the way I think about software development and computer science overall.  
 
 # Coding Standards: Readability and Maintainability
