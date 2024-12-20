@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Manoa-Menu-Project/manoa-menu-logo.jpg
+image: img/Manoa-Menu-Project/manoa-menu-logo2.jpg
 title: "Manoa Menu"
 date: 2024
 published: true
@@ -12,8 +12,6 @@ labels:
   - PostgreSQL
 summary: "Manoa Menu is a web application designed by my team and I for our final project during ICS314: Software Engineering. The application is designed to provide translations of menu items and descriptions for different restaurants and food locations on campus for international students."
 ---
-# Manoa Menu  
-
 ### **Team Homepage**: [GitHub Organization](https://manoa-menu.github.io/)
 ### **Deployed Application**: [Manoa Menu](https://manoa-menu.vercel.app)
 ### **Source Code**: [Github](https://github.com/manoa-menu/manoa-menu)
